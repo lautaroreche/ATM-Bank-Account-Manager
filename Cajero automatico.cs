@@ -1,4 +1,4 @@
-/* Cajero automático que maneja una cada de ahorro, la cual tiene las propiedades numero, titular y saldo.
+/* Cajero automático que maneja una caja de ahorro, la cual tiene las propiedades número, titular y saldo.
 Mediante el cajero se puede depositar dinero, extraer dinero o consultar el saldo.
 Consideraciones:
 * El saldo de la cuenta debe estar entre 0 y 9999999
