@@ -18,7 +18,6 @@ public class Program{
 }
 
 
-
 public class CajaAhorro{
 	private int numero;
 	private string titular;
@@ -38,7 +37,6 @@ public class CajaAhorro{
 		return saldo;
 	}
 }
-
 
 
 public class Cajero{
@@ -84,7 +82,6 @@ public class Cajero{
 			}
 		} while (opcion != "4");
 	}
-	
 	
 	public double PedirMonto(){
 		bool validDouble;
