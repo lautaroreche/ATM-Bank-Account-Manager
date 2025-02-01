@@ -1,9 +1,9 @@
 # ATM Simulator 🏧
 
+## Description ℹ️
 This C# program simulates an ATM (Automated Teller Machine) with basic banking operations such as depositing money, withdrawing money, and checking balance.
 
 ## Usage 🚀
-
 1. Run the program by executing the `Program.cs` file.
 2. The program will display a menu with options:
     - **1. Deposit money**: Allows the user to deposit money into their savings account.
@@ -13,18 +13,14 @@ This C# program simulates an ATM (Automated Teller Machine) with basic banking o
 3. Follow the prompts to select an option and perform the desired operation.
 
 ## Requirements 📋
-
 - .NET Core SDK (for compiling and running C# code)
 
 ## Features ✨
-
 - Validates user input to ensure it is within the specified range and format.
 - Limits the total balance of the savings account to $9,999,999 to prevent overflow.
 - Provides feedback messages for successful and unsuccessful operations.
 
 ## Contact 📧
-
-If you have any questions or would like to inquire about our services, feel free to contact us:
-
+If you have any questions or comments, feel free to contact me:
 - **Email**: lautaroreche1@gmail.com
-- **Social Media**: [LinkedIn](https://www.linkedin.com/in/lautaroreche/)
+- **LinkedIn**: [lautaroreche](https://www.linkedin.com/in/lautaroreche/)
