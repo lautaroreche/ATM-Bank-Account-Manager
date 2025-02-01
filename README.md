@@ -22,6 +22,9 @@ This C# program simulates an ATM (Automated Teller Machine) with basic banking o
 - Limits the total balance of the savings account to $9,999,999 to prevent overflow.
 - Provides feedback messages for successful and unsuccessful operations.
 
-## Contribution 🎁
+## Contact 📧
 
-Contributions are welcome! If you'd like to improve this program or add new features, feel free to submit a pull request.
+If you have any questions or would like to inquire about our services, feel free to contact us:
+
+- **Email**: lautaroreche1@gmail.com
+- **Social Media**: [LinkedIn](https://www.linkedin.com/in/lautaroreche/)
